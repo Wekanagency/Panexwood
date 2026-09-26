@@ -13,7 +13,7 @@ export default function Home() {
     <RiseLoader color="#f59e0b" />
   </div>
 
-  <p className="absolute bottom-6 text-center text-sm uppercase font-medium">
+  <p className="absolute bottom-20 text-center text-sm uppercase font-medium">
     Created by <span className="text-red-400">wekan</span>
   </p>
 </main>  );
